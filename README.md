@@ -1,6 +1,6 @@
 ### Hi there, this is Salim. 👋🏼
 
-##### I'm trying to be a backend developer.
+#### I'm trying to be a backend developer.
 
 - 💙 I love working with **Go** and **JavaScript**.
 - ✏️ Currently I'm learning **message brokers**.
