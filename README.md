@@ -7,5 +7,3 @@
 - 🎉 **2022 goals**: I want to work on distributed systems.
 
 🚀 You can find my **tech stack** here: [StackShare](https://stackshare.io/nebisin/my-stack)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebisin&layout=compact&show_icons=true&theme=onedark)](https://github.com/nebisin)
